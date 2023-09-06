@@ -14,11 +14,8 @@ The difference with the results of the paper [[1]](#1) is mainly in the fiber re
 
 ### References
 
-<a id="1">[1]</a>  https://www.sciencedirect.com/science/article/abs/pii/S0022509618303223
-
-<a id="2">[2]</a>  https://www.sciencedirect.com/science/article/abs/pii/S0020768397002175
-
-<a id="3">[3]</a> https://www.sciencedirect.com/science/article/pii/S0020768307002582 
-
-<a id="4">[4]</a> https://www.sciencedirect.com/science/article/abs/pii/S0045782506003045
+- <a id="1">[1]</a>  https://www.sciencedirect.com/science/article/abs/pii/S0022509618303223
+- <a id="2">[2]</a>  https://www.sciencedirect.com/science/article/abs/pii/S0020768397002175
+- <a id="3">[3]</a> https://www.sciencedirect.com/science/article/pii/S0020768307002582 
+- <a id="4">[4]</a> https://www.sciencedirect.com/science/article/abs/pii/S0045782506003045
 
