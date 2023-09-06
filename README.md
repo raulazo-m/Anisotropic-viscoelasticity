@@ -1,4 +1,4 @@
-# Matrix-Fiber Viscoelasticity
+# Anisotropic viscoelasticity (matrix-fiber composite)
 
 Numerical model in FEniCS and FEniCSx for matrix-fiber composite materials. Details of the model in Liu et al. (2019) [[1]](#1).
 
