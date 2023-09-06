@@ -2,7 +2,7 @@
 
 Numerical model in FEniCS and FEniCSx for matrix-fiber composite materials. Details of the model in Liu et al. (2019) [[1]](#1).
 
-The results using the numerical implementation presented in [1] are exact.
+The results using the numerical implementation presented in [[1]](#1) are exact.
 
 The work of Liu et al. (2019) [[1]](#1) is conditioned for the relaxation case.
 
