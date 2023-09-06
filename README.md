@@ -4,7 +4,7 @@ Numerical model in FEniCS and FEniCSx for matrix-fiber composite materials. Deta
 
 The results using the numerical implementation presented in [[1]](#1) are exact.
 
-The work of Liu et al. (2019) [[1]](#1) is conditioned for the relaxation case.
+The work of Liu et al. (2019) [[1]](#1) is conditioned for the relaxation case. This is constant deformation at each time step, which allows to evaluate the tensors at any point of the body.
 
 Alternatively, I also solve the viscoelasticity of the matrix and fibers with generalized methods to allow the modeling of creep or any phenomena.
 
